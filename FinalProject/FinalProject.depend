@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1683605137 source:c:\users\poorvika\onedrive\desktop\projects\c++\finalproject\functions.cpp
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<string>
+	<cctype>
+	"adminn.h"
+
+1683531594 c:\users\poorvika\onedrive\desktop\projects\c++\finalproject\adminn.h
+	<string.h>
+	"passengerr.h"
+
+1683554198 c:\users\poorvika\onedrive\desktop\projects\c++\finalproject\passengerr.h
+	<string.h>
+	"user.h"
+
+1682937098 c:\users\poorvika\onedrive\desktop\projects\c++\finalproject\user.h
+
+1682937843 source:c:\users\poorvika\onedrive\desktop\projects\c++\finalproject\main.cpp
+	<iostream>
+	<unistd.h>
+	"adminn.h"
+
+1683606642 source:c:\users\poorvika\desktop\projects\1st yr\c++\finalproject\functions.cpp
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<fstream>
+	<string>
+	<cctype>
+	"adminn.h"
+
+1683531594 c:\users\poorvika\desktop\projects\1st yr\c++\finalproject\adminn.h
+	<string.h>
+	"passengerr.h"
+
+1683554198 c:\users\poorvika\desktop\projects\1st yr\c++\finalproject\passengerr.h
+	<string.h>
+	"user.h"
+
+1682937098 c:\users\poorvika\desktop\projects\1st yr\c++\finalproject\user.h
+
+1682937843 source:c:\users\poorvika\desktop\projects\1st yr\c++\finalproject\main.cpp
+	<iostream>
+	<unistd.h>
+	"adminn.h"
+
